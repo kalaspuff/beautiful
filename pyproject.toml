@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "beautiful"
-version = "0.0.1"
+version = "0.0.2"
 description = "A collection of functions and classes to aid developers into building better code faster"
 authors = ["Carl Oscar Aaro <hello@carloscar.com>"]
 homepage = "https://github.com/kalaspuff/beautiful"
