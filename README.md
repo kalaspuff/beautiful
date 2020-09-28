@@ -7,6 +7,8 @@
 
 *A collection of functions and classes to aid developers into building better code faster.*
 
+**Note: This is _not_ the Python package for `BeautifulSoup`, the popular screen scraping library. If that's what you're looking for, head over to [https://www.crummy.com/software/BeautifulSoup/](https://www.crummy.com/software/BeautifulSoup/).**
+
 
 ## Installation with `pip`
 Like you would install any other Python package, use `pip`, `poetry`, `pipenv` or your weapon of choice.
