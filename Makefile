@@ -22,10 +22,10 @@ version:
 	poetry version `python beautiful/__version__.py`
 
 black:
-	poetry run black -l 120 beautiful/ tests/
+	poetry run black beautiful/ tests/
 
 isort:
-	poetry run isort -rc beautiful/ tests/
+	poetry run isort beautiful/ tests/
 
 build:
 	rm -rf dist/
